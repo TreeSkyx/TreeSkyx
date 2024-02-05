@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wiroon Somphaothong</h1>
 <h3 align="center">3rd year Computer Engineering student at King Mongkut's Institute of Technology Ladkrabang (KMITL) and passionate developer in Full-Stack and Embedded System development</h3>
 
-- 👨‍💻 All of my projects are available at [https://treeskyx.github.io/](https://treeskyx.github.io/)
+- 👨‍💻 All of my projects are available at [https://treeskyx.github.io/](https://treeskyx.github.io/) or here at my GitHub repository.
 
 - 📫 How to reach me **wiroon.som@gmail.com**
 
